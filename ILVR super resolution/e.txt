@@ -1,0 +1,203 @@
+Detectron v2 is not installed
+[INFO] training the network...
+[INFO] EPOCH: 1/100
+Train loss: 7.533236, Test loss: 7.5332
+[INFO] EPOCH: 2/100
+Train loss: 6.705060, Test loss: 6.7051
+[INFO] EPOCH: 3/100
+Train loss: 6.503025, Test loss: 6.5030
+[INFO] EPOCH: 4/100
+Train loss: 6.418393, Test loss: 6.4184
+[INFO] EPOCH: 5/100
+Train loss: 6.172558, Test loss: 6.1726
+[INFO] EPOCH: 6/100
+Train loss: 5.986312, Test loss: 5.9863
+[INFO] EPOCH: 7/100
+Train loss: 5.851418, Test loss: 5.8514
+[INFO] EPOCH: 8/100
+Train loss: 5.760334, Test loss: 5.7603
+[INFO] EPOCH: 9/100
+Train loss: 5.650241, Test loss: 5.6502
+[INFO] EPOCH: 10/100
+Train loss: 5.574831, Test loss: 5.5748
+[INFO] EPOCH: 11/100
+Train loss: 5.493214, Test loss: 5.4932
+[INFO] EPOCH: 12/100
+Train loss: 5.444736, Test loss: 5.4447
+[INFO] EPOCH: 13/100
+Train loss: 5.388841, Test loss: 5.3888
+[INFO] EPOCH: 14/100
+Train loss: 5.385444, Test loss: 5.3854
+[INFO] EPOCH: 15/100
+Train loss: 5.303971, Test loss: 5.3040
+[INFO] EPOCH: 16/100
+Train loss: 5.272599, Test loss: 5.2726
+[INFO] EPOCH: 17/100
+Train loss: 5.248394, Test loss: 5.2484
+[INFO] EPOCH: 18/100
+Train loss: 5.209478, Test loss: 5.2095
+[INFO] EPOCH: 19/100
+Train loss: 5.176240, Test loss: 5.1762
+[INFO] EPOCH: 20/100
+Train loss: 5.153101, Test loss: 5.1531
+[INFO] EPOCH: 21/100
+Train loss: 5.125003, Test loss: 5.1250
+[INFO] EPOCH: 22/100
+Train loss: 5.106652, Test loss: 5.1067
+[INFO] EPOCH: 23/100
+Train loss: 5.084041, Test loss: 5.0840
+[INFO] EPOCH: 24/100
+Train loss: 5.060044, Test loss: 5.0600
+[INFO] EPOCH: 25/100
+Train loss: 5.051539, Test loss: 5.0515
+[INFO] EPOCH: 26/100
+Train loss: 5.029970, Test loss: 5.0300
+[INFO] EPOCH: 27/100
+Train loss: 5.024664, Test loss: 5.0247
+[INFO] EPOCH: 28/100
+Train loss: 4.998106, Test loss: 4.9981
+[INFO] EPOCH: 29/100
+Train loss: 4.982378, Test loss: 4.9824
+[INFO] EPOCH: 30/100
+Train loss: 4.976570, Test loss: 4.9766
+[INFO] EPOCH: 31/100
+Train loss: 4.971593, Test loss: 4.9716
+[INFO] EPOCH: 32/100
+Train loss: 4.936096, Test loss: 4.9361
+[INFO] EPOCH: 33/100
+Train loss: 4.932557, Test loss: 4.9326
+[INFO] EPOCH: 34/100
+Train loss: 4.916971, Test loss: 4.9170
+[INFO] EPOCH: 35/100
+Train loss: 4.898264, Test loss: 4.8983
+[INFO] EPOCH: 36/100
+Train loss: 4.898968, Test loss: 4.8990
+[INFO] EPOCH: 37/100
+Train loss: 4.894139, Test loss: 4.8941
+[INFO] EPOCH: 38/100
+Train loss: 4.893037, Test loss: 4.8930
+[INFO] EPOCH: 39/100
+Train loss: 4.864165, Test loss: 4.8642
+[INFO] EPOCH: 40/100
+Train loss: 4.858182, Test loss: 4.8582
+[INFO] EPOCH: 41/100
+Train loss: 4.866441, Test loss: 4.8664
+[INFO] EPOCH: 42/100
+Train loss: 4.842568, Test loss: 4.8426
+[INFO] EPOCH: 43/100
+Train loss: 4.839738, Test loss: 4.8397
+[INFO] EPOCH: 44/100
+Train loss: 4.829636, Test loss: 4.8296
+[INFO] EPOCH: 45/100
+Train loss: 4.819728, Test loss: 4.8197
+[INFO] EPOCH: 46/100
+Train loss: 4.825555, Test loss: 4.8256
+[INFO] EPOCH: 47/100
+Train loss: 4.813795, Test loss: 4.8138
+[INFO] EPOCH: 48/100
+Train loss: 4.812385, Test loss: 4.8124
+[INFO] EPOCH: 49/100
+Train loss: 4.808412, Test loss: 4.8084
+[INFO] EPOCH: 50/100
+Train loss: 4.802970, Test loss: 4.8030
+[INFO] EPOCH: 51/100
+Train loss: 4.775415, Test loss: 4.7754
+[INFO] EPOCH: 52/100
+Train loss: 4.786462, Test loss: 4.7865
+[INFO] EPOCH: 53/100
+Train loss: 4.777471, Test loss: 4.7775
+[INFO] EPOCH: 54/100
+Train loss: 4.770876, Test loss: 4.7709
+[INFO] EPOCH: 55/100
+Train loss: 4.768803, Test loss: 4.7688
+[INFO] EPOCH: 56/100
+Train loss: 4.755562, Test loss: 4.7556
+[INFO] EPOCH: 57/100
+Train loss: 4.773664, Test loss: 4.7737
+[INFO] EPOCH: 58/100
+Train loss: 4.756897, Test loss: 4.7569
+[INFO] EPOCH: 59/100
+Train loss: 4.753223, Test loss: 4.7532
+[INFO] EPOCH: 60/100
+Train loss: 4.748586, Test loss: 4.7486
+[INFO] EPOCH: 61/100
+Train loss: 4.732708, Test loss: 4.7327
+[INFO] EPOCH: 62/100
+Train loss: 4.725945, Test loss: 4.7259
+[INFO] EPOCH: 63/100
+Train loss: 4.745848, Test loss: 4.7458
+[INFO] EPOCH: 64/100
+Train loss: 4.719369, Test loss: 4.7194
+[INFO] EPOCH: 65/100
+Train loss: 4.709786, Test loss: 4.7098
+[INFO] EPOCH: 66/100
+Train loss: 4.712223, Test loss: 4.7122
+[INFO] EPOCH: 67/100
+Train loss: 4.707280, Test loss: 4.7073
+[INFO] EPOCH: 68/100
+Train loss: 4.714290, Test loss: 4.7143
+[INFO] EPOCH: 69/100
+Train loss: 4.711182, Test loss: 4.7112
+[INFO] EPOCH: 70/100
+Train loss: 4.718063, Test loss: 4.7181
+[INFO] EPOCH: 71/100
+Train loss: 4.710665, Test loss: 4.7107
+[INFO] EPOCH: 72/100
+Train loss: 4.704534, Test loss: 4.7045
+[INFO] EPOCH: 73/100
+Train loss: 4.697378, Test loss: 4.6974
+[INFO] EPOCH: 74/100
+Train loss: 4.685750, Test loss: 4.6858
+[INFO] EPOCH: 75/100
+Train loss: 4.702463, Test loss: 4.7025
+[INFO] EPOCH: 76/100
+Train loss: 4.691295, Test loss: 4.6913
+[INFO] EPOCH: 77/100
+Train loss: 4.680340, Test loss: 4.6803
+[INFO] EPOCH: 78/100
+Train loss: 4.680965, Test loss: 4.6810
+[INFO] EPOCH: 79/100
+Train loss: 4.685363, Test loss: 4.6854
+[INFO] EPOCH: 80/100
+Train loss: 4.662358, Test loss: 4.6624
+[INFO] EPOCH: 81/100
+Train loss: 4.656979, Test loss: 4.6570
+[INFO] EPOCH: 82/100
+Train loss: 4.676175, Test loss: 4.6762
+[INFO] EPOCH: 83/100
+Train loss: 4.661385, Test loss: 4.6614
+[INFO] EPOCH: 84/100
+Train loss: 4.648460, Test loss: 4.6485
+[INFO] EPOCH: 85/100
+Train loss: 4.667055, Test loss: 4.6671
+[INFO] EPOCH: 86/100
+Train loss: 4.653666, Test loss: 4.6537
+[INFO] EPOCH: 87/100
+Train loss: 4.664038, Test loss: 4.6640
+[INFO] EPOCH: 88/100
+Train loss: 4.664311, Test loss: 4.6643
+[INFO] EPOCH: 89/100
+Train loss: 4.643152, Test loss: 4.6432
+[INFO] EPOCH: 90/100
+Train loss: 4.656480, Test loss: 4.6565
+[INFO] EPOCH: 91/100
+Train loss: 4.653139, Test loss: 4.6531
+[INFO] EPOCH: 92/100
+Train loss: 4.634581, Test loss: 4.6346
+[INFO] EPOCH: 93/100
+Train loss: 4.636927, Test loss: 4.6369
+[INFO] EPOCH: 94/100
+Train loss: 4.629495, Test loss: 4.6295
+[INFO] EPOCH: 95/100
+Train loss: 4.637397, Test loss: 4.6374
+[INFO] EPOCH: 96/100
+Train loss: 4.642938, Test loss: 4.6429
+[INFO] EPOCH: 97/100
+Train loss: 4.629452, Test loss: 4.6295
+[INFO] EPOCH: 98/100
+Train loss: 4.636205, Test loss: 4.6362
+[INFO] EPOCH: 99/100
+Train loss: 4.645186, Test loss: 4.6452
+[INFO] EPOCH: 100/100
+Train loss: 4.628664, Test loss: 4.6287
+[INFO] total time taken to train the model: 10310.76s

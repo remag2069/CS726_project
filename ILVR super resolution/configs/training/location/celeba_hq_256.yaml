@@ -1,0 +1,3 @@
+data_root_dir: /home/Drive3/Anandu/CS726/ilvr_adm_sup/my_dataset/
+out_root_dir: /home/Drive3/Anandu/CS726/ilvr_adm_sup/experiments/
+tb_dir: /home/Drive3/Anandu/CS726/ilvr_adm_sup/tb_logs/

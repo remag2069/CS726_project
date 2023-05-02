@@ -1,0 +1,3 @@
+data_root_dir: /home/Drive3/Dharshan/Venv/lama/my_dataset/
+out_root_dir: /home/Drive3/Dharshan/Venv/lama/experiments/
+tb_dir: /home/Drive3/Dharshan/Venv/lama/tb_logs/

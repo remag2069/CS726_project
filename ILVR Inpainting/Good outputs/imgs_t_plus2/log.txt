@@ -1,0 +1,17 @@
+Logging to output
+creating model...
+creating resizers...
+loading data...
+creating samples...
+created 4 samples
+created 8 samples
+created 12 samples
+created 16 samples
+created 20 samples
+created 24 samples
+created 28 samples
+created 32 samples
+created 36 samples
+created 40 samples
+created 44 samples
+created 48 samples
